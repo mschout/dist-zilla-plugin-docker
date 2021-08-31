@@ -1,4 +1,6 @@
 Revision history for Dist-Zilla-Plugin-Docker
 
 {{$NEXT}}
+
+0.01  2021-08-31
     - Initial release

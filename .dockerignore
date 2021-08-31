@@ -1,0 +1,3 @@
+.build/
+releases/
+Dist-Zilla-Plugin-Docker*
